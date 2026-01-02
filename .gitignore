@@ -1,0 +1,6 @@
+.vscode
+.DS_Store
+venv
+memory/
+__pycache__/
+profile/
