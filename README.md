@@ -1,0 +1,2 @@
+# KITAI - KIRTAN AI 
+### This is the project just build for the help of the human being where the AI helps a human to get to the conclusion if the human is confused based on the person's personality and thinking, the main part of this AI is that you have to feed him your personality, your behaviour, your thinking
